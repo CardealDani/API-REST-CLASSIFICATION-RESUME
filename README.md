@@ -111,6 +111,7 @@ Seniority model confusion matrix plot
 ![enter image description here](https://media.discordapp.net/attachments/1250086904146427924/1260243024462741556/Captura_de_tela_de_2024-07-09_11-33-37.png?ex=668e9c47&is=668d4ac7&hm=5b017671b697e2ad99542db87993e151e1b29bd6be0be444c98aae4089a26700&=&format=webp&quality=lossless)
 
 
+
 **Seniority Prediction Accuracy**: 72%
 
 
